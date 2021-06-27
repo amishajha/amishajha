@@ -1,4 +1,4 @@
-### Hi there, I'm Amisha Jha 🤓- aka [amishaJha][website] 👋
+### Hello, I'm Amisha Jha 🤓- aka [amishajha][website] 👋
 
 [![Website](https://img.shields.io/website?label=amishaJha.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://amishajha.github.io/)
 
