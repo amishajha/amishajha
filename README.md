@@ -7,8 +7,9 @@
 
 - 🤓 I'm a second year undergraduate in Dr Dy Patil Institute of Technology
 - 🌱 I’m currently learning  new technologies 
+- 💻 I also like coding and developing
 - ✨ Fun fact: I love to play volleyball and  guitar .
--  💻 I also like coding and developing
+ 
 
 ### Connect with me:
 
