@@ -1,5 +1,5 @@
-### Hello, I'm Amisha Jha 🤓
-[Visit my site][website] 👋
+### Hello 👋, I'm Amisha Jha 🤓
+[Visit my site][website]
 
 [![Website](https://img.shields.io/website?label=amishaJha.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://amishajha.github.io/)
 
