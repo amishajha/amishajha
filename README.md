@@ -6,7 +6,7 @@
 
 
 
-- 🤓 I'm a second year undergraduate in Dr Dy Patil Institute of Technology
+- 🤓 I'm a second year undergraduate at Dr Dy Patil Institute of Technology
 - 🌱 I’m currently learning  new technologies 
 - 💻 I am interested in coding and developing
 - ✨ I am also a volleyball player and i like playing guitar
