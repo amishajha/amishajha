@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amishajha" alt="amishajha" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/https://twitter.com/amisha2424" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amisha2424?logo=twitter&style=for-the-badge" alt="https://twitter.com/amisha2424" /></a> </p>
+
 - 🌱 I’m currently **Data Structures and Algorithm**
+
+- 👯 I’m looking to collaborate on **Open source projects**
 
 - 📫 How to reach me **Jhaamisha096@gmail.com**
 
@@ -23,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amishajha&show_icons=true&locale=en&layout=compact" alt="amishajha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amishajha&show_icons=true&locale=en" alt="amishajha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishajha&" alt="amishajha" /></p>
