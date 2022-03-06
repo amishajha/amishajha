@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amisha2424" target="blank"><img src="https://img.shields.io/twitter/follow/amisha2424?logo=twitter&style=for-the-badge" alt="amisha2424" /></a> </p>
 
-- 🌱 I’m currently **Data Structures and Algorithm**
+- 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
